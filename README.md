@@ -1,5 +1,7 @@
 # Face Cropper
 
+日本語の説明：https://github.com/rtorii/Face-Cropper-Description/tree/main
+
 Code: https://github.com/GhaithKhoja/ARG_Project
 
 **Description**
